@@ -1,0 +1,16 @@
+body {
+  background-color: #bada55;
+}
+h1{
+  color: AliceBlue;
+}
+footer{
+  text-align: center;
+  border-top: 2px solid #E0E0E0;
+  margin-top: 5em;
+}
+
+.panel-footer{
+  text-align: center;
+  font-size: 10px;
+}
